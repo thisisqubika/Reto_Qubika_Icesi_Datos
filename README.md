@@ -1,6 +1,6 @@
 # Reto_Qubika_Icesi_Datos
 
-# **Fechas importantes**
+## **Fechas importantes**
 
 **Viernes 8 de noviembre**: Entrega del reto, con sesión virtual para explicación del mismo.
 
@@ -10,6 +10,6 @@
 
 **22 de noviembre**: Entrega de los certificados a las 2pm de forma presencial.
 
-# Formato de entrega
+## Formato de entrega
 
 Se debe entregar un repositorio de github con el código y el reporte en formato .ipynb. Y un docker que despliegue el streamlit en caso de completar el último punto. El readme debe contener las instrucciones para desplegar el streamlit.
